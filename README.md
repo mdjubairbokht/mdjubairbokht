@@ -20,9 +20,9 @@ M.S. IT student at the University of the Cumberlands. My academic progress stren
 
 [![Scrum Master Accredited Certification](https://img.shields.io/badge/Scrum-Master%20Accredited-success?style=for-the-badge)](https://www.scrum-institute.org/badges/42598067410755)
 
-[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](PASTE_YOUR_LINK_HERE)
+[![Microsoft: Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
-[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-005A9C?style=for-the-badge&logo=microsoftazure&logoColor=white)](PASTE_YOUR_LINK_HERE)
+[![Microsoft: Azure Administrator Associate](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-005A9C?style=for-the-badge&logo=microsoftazure&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
 [![Microsoft Security Agent](https://img.shields.io/badge/Microsoft-Security%20Agent-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
