@@ -29,6 +29,7 @@ M.S. IT student at the University of the Cumberlands. My academic progress stren
 
 [![Microsoft Security Agent](https://img.shields.io/badge/Microsoft-Security%20Agent-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/123456)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdjubairbokht&limit=5&theme=dark&combine_all_yearly_contributions=true)
