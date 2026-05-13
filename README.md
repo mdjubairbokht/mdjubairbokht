@@ -17,7 +17,7 @@ M.S. IT student at the University of the Cumberlands. My academic progress stren
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdjubairbokht&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![fgjfjfjf](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](ygkgkgkgk)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdjubairbokht&limit=5&theme=dark&combine_all_yearly_contributions=true)
