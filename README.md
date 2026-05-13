@@ -4,7 +4,7 @@ As a certified Azure DevOps & QA Engineer specializing in automation, CI/CD, clo
 
 M.S. IT student at the University of the Cumberlands. My academic progress strengthens my real‑world experience, certifications, and technical skills, keeping me aligned with the fast‑changing AI & tech landscape. 
 
-⚡ Fun fact: I enjoy sailing, skiing and archery which help me unwind and stay active.
+⚡ Fun fact: I enjoy sailing, skiing and archery which help me unwind and stay active. ⚡
 
 
 ## 🌐 Socials:
