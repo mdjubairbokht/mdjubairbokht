@@ -17,11 +17,8 @@ M.S. IT student at the University of the Cumberlands. My academic progress stren
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdjubairbokht&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Certifications 
-[![CTFL - ASTQB](https://img.shields.io/badge/ASTQB-CTFL-blue?style=for-the-badge)](PASTE_YOUR_LINK_HERE)
 
-[![Postman API Expert](https://img.shields.io/badge/Postman-API%20Expert-orange?style=for-the-badge&logo=postman&logoColor=white)](PASTE_YOUR_LINK_HERE)
-
-[![Scrum Master Accredited Certification](https://img.shields.io/badge/Scrum-Master%20Accredited-success?style=for-the-badge)](PASTE_YOUR_LINK_HERE)
+[![Scrum Master Accredited Certification](https://img.shields.io/badge/Scrum-Master%20Accredited-success?style=for-the-badge)](https://www.scrum-institute.org/badges/42598067410755)
 
 [![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
@@ -29,7 +26,9 @@ M.S. IT student at the University of the Cumberlands. My academic progress stren
 
 [![Microsoft Security Agent](https://img.shields.io/badge/Microsoft-Security%20Agent-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/123456)
+[![CTFL - ASTQB](https://img.shields.io/badge/ASTQB-CTFL-blue?style=for-the-badge)](PASTE_YOUR_LINK_HERE)
+
+[![Postman API Expert](https://img.shields.io/badge/Postman-API%20Expert-orange?style=for-the-badge&logo=postman&logoColor=white)](PASTE_YOUR_LINK_HERE)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdjubairbokht&limit=5&theme=dark&combine_all_yearly_contributions=true)
