@@ -2,12 +2,6 @@
 
 I break applications professionally… then automate the process so it never breaks again. 🚀
 
-Passionate about building reliable CI/CD pipelines, scalable automation frameworks, and data-driven solutions that make systems faster, smarter, and more stable.
-
-Working across Java, Python, Selenium, Playwright, API testing, and modern automation frameworks — while slowly turning coffee into stable deployments ☕⚡
-
-Currently diving deeper into Data Engineering, ETL validation, SQL, BI, and backend workflows, with a growing interest in AI-powered quality engineering and intelligent automation. 
-
 🎓 M.S. in Information Technology — University of the Cumberlands
 ☁️ Microsoft Certified | Automation Enthusiast | Problem Solver
 ⚡ Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
