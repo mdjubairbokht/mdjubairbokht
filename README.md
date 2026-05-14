@@ -12,7 +12,7 @@ Currently diving deeper into Data Engineering, ETL validation, SQL, BI, and back
 ☁️ Microsoft Certified | Automation Enthusiast | Problem Solver
 ⚡ Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
 
-Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubairbokht/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BokhtMd)
+Find me on [![LinkedIn](https://www.linkedin.com/in/jubairbokht/) [![X](https://x.com/BokhtMd)
 
 ### Language & Tools :
 
