@@ -1,11 +1,18 @@
 ## Hi there, I am Jubair👋
 
-As a certified Azure DevOps & QA Engineer specializing in automation, CI/CD, cloud platforms, and data‑centric testing. I work across Java, Python, Selenium, Playwright, and API testing to build reliable, scalable test solutions. Currently expanding into Data Engineering, with experience in ETL validation, SQL, BI, and backend data workflows. Passionate about AI‑powered quality engineering and continuous improvement.
+I break applications professionally… then automate the chaos before production notices. 🚀
 
-M.S. IT student at the University of the Cumberlands. My academic progress strengthens my real‑world experience, certifications, and technical skills, keeping me aligned with the fast‑changing AI & tech landscape. 
+Azure DevOps Engineer | Software QA Engineer | Data Analyst
 
-⚡I enjoy sailing, skiing and archery which help me unwind and stay active⚡
+Passionate about building reliable CI/CD pipelines, scalable automation frameworks, and data-driven solutions that make systems faster, smarter, and more stable.
 
+Working across Azure DevOps, Java, Python, Selenium, Playwright, API testing, SQL, BI, ETL validation, and cloud technologies — basically turning bugs, logs, and messy data into useful insights and smooth deployments ⚡
+
+Currently exploring AI-powered quality engineering, intelligent automation, and modern data workflows while continuously learning new technologies in the cloud and analytics space.
+
+🎓 M.S. in Information Technology — University of the Cumberlands
+☁️ Microsoft Certified | Automation Enthusiast | Problem Solver
+⚡ Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
 
 ### Language & Tools :
 
