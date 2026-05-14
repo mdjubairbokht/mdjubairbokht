@@ -6,9 +6,9 @@ Azure DevOps Engineer | Software QA Engineer | Data Analyst
 
 Passionate about building reliable CI/CD pipelines, scalable automation frameworks, and data-driven solutions that make systems faster, smarter, and more stable.
 
-Working across Azure DevOps, Java, Python, Selenium, Playwright, API testing, SQL, BI, ETL validation, and cloud technologies — basically turning bugs, logs, and messy data into useful insights and smooth deployments ⚡
+Working across Java, Python, Selenium, Playwright, API testing, and modern automation frameworks — while slowly turning coffee into stable deployments ☕⚡
 
-Currently exploring AI-powered quality engineering, intelligent automation, and modern data workflows while continuously learning new technologies in the cloud and analytics space.
+Currently diving deeper into Data Engineering, ETL validation, SQL, BI, and backend workflows, with a growing interest in AI-powered quality engineering and intelligent automation. 
 
 🎓 M.S. in Information Technology — University of the Cumberlands
 ☁️ Microsoft Certified | Automation Enthusiast | Problem Solver
