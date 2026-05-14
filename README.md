@@ -2,8 +2,6 @@
 
 I break applications professionally… then automate the process so it never breaks again. 🚀
 
-Azure DevOps Engineer | Software QA Engineer | Data Analyst
-
 Passionate about building reliable CI/CD pipelines, scalable automation frameworks, and data-driven solutions that make systems faster, smarter, and more stable.
 
 Working across Java, Python, Selenium, Playwright, API testing, and modern automation frameworks — while slowly turning coffee into stable deployments ☕⚡
@@ -13,6 +11,10 @@ Currently diving deeper into Data Engineering, ETL validation, SQL, BI, and back
 🎓 M.S. in Information Technology — University of the Cumberlands
 ☁️ Microsoft Certified | Automation Enthusiast | Problem Solver
 ⚡ Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
+
+## 🌐 Find me on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubairbokht/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BokhtMd)
 
 ### Language & Tools :
 
