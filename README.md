@@ -1,6 +1,6 @@
 ## Hi there, I am Jubair👋
 
-I break applications professionally… then automate the chaos before production notices. 🚀
+I break applications professionally… then automate the process so it never breaks again. 🚀
 
 Azure DevOps Engineer | Software QA Engineer | Data Analyst
 
