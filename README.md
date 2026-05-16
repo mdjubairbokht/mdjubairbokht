@@ -2,7 +2,7 @@
 
 I break applications professionally… then automate the process so it never breaks again. 🚀
 
-M.S. in Information Technology — University of the Cumberlands
+M.S. in Information Technology — University of the Cumberlands 
 
 Microsoft Certified | Automation Enthusiast | Problem Solver
 
