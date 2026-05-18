@@ -4,7 +4,7 @@ I break applications professionally… then automate the process so it never bre
 
 M.S. in Information Technology — University of the Cumberlands 
 
-Microsoft Certified | Automation Enthusiast | Problem Solver
+Microsoft Certified | Automation Enthusiast | Problem Solver 
 
 Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
 
