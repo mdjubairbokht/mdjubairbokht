@@ -8,7 +8,7 @@ Microsoft Certified | Automation Enthusiast | Problem Solver
 
 Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
 
-Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and [Twitter](https://x.com/BokhtMd). 
+Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](https://x.com/BokhtMd). 
 
 ### Language, Tools and Frameworks: 
 
