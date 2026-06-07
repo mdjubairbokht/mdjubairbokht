@@ -1,6 +1,6 @@
 ## Hi there, I am Jubair👋
 
-hello all
+Short 
 
 I break applications professionally… then automate the process so it never breaks again. 🚀
 
