@@ -1,5 +1,5 @@
 ## Hi there, I am Jubair👋
-
+how are you all
 I break applications professionally… then automate the process so it never breaks again. 🚀
 
 M.S. in Information Technology — University of the Cumberlands 
