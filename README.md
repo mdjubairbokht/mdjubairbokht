@@ -19,7 +19,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](h
 ![](https://streak-stats.demolab.com/?user=mdjubairbokht&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdjubairbokht&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Certifications   
+### Certifications    
 
 [![Microsoft: Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MdJubairBokht-2802/23FE2F6F5D6D1998?sharingId) [![Azure Administrator Associate](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-005A9C?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MdJubairBokht-2802/114B5C419FE14699?sharingId=566EF5BC1B64B1DF) [![Microsoft Security Agent](https://img.shields.io/badge/Microsoft-Security%20Agent-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/57ef06db-df5d-4d3f-a316-2748fe858785/public_url) [![Scrum Master Accredited Certification](https://img.shields.io/badge/Scrum-Master%20Accredited-success?style=for-the-badge)](https://www.scrum-institute.org/badges/42598067410755) [![CTFL - ASTQB](https://img.shields.io/badge/ASTQB-CTFL-blue?style=for-the-badge)](https://atsqa.org/certified-testers/profile/f7c2ce365c8b4998ac9c088b99adf1f5) [![Postman API Expert](https://img.shields.io/badge/Postman-API%20Expert-orange?style=for-the-badge&logo=postman&logoColor=white)](https://badges.parchment.com/public/assertions/QVBIijE0QSi1QPSRavZdPA?identity__email=jubairbokht@gmail.com)  
 
