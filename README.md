@@ -6,7 +6,7 @@ M.S. in Information Technology — University of the Cumberlands
 
 Microsoft Certified | Automation Enthusiast | Problem Solver  
 
-Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯 
+Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯    
 
 Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](https://x.com/BokhtMd). 
 
