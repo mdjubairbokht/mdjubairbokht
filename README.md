@@ -49,8 +49,3 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](h
 </p>
 <!-- Tip: wrap each badge in a link to its Credly / Microsoft Learn verification page -->
 
-
-### 🔝 Top Contributed Repo 
-![](https://github-contributor-stats.vercel.app/api?username=mdjubairbokht&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
