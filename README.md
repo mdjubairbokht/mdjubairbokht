@@ -27,24 +27,6 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](h
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjubairbokht&theme=holi&utcOffset=0)
 
 ### Certifications    
-
-## 🏅 Certifications
-
-<table>
-  <tr>
-    <td align="center" width="33%">☁️<br><b>Azure Administrator</b><br><sub>Microsoft · AZ-104</sub></td>
-    <td align="center" width="33%">☁️<br><b>Azure Fundamentals</b><br><sub>Microsoft · AZ-900</sub></td>
-    <td align="center" width="33%">🔐<br><b>Security Agent</b><br><sub>Microsoft</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🧪<br><b>Certified Tester (CTFL)</b><br><sub>ISTQB / ASTQB</sub></td>
-    <td align="center">🔄<br><b>Scrum Master Accredited</b><br><sub>Scrum</sub></td>
-    <td align="center">🚀<br><b>API Expert</b><br><sub>Postman</sub></td>
-  </tr>
-</table>
-
-
-
 <p> <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-104"> <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-900"> <img src="https://img.shields.io/badge/Microsoft-Security_Agent-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Microsoft Security"> <img src="https://img.shields.io/badge/ISTQB-Certified_Tester_(CTFL)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="ISTQB CTFL"> <img src="https://img.shields.io/badge/Scrum-Master_Accredited-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Scrum Master"> <img src="https://img.shields.io/badge/Postman-API_Expert-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Postman API Expert"> </p> <!-- Tip: wrap each badge in a link to its Credly / Microsoft Learn verification page -->
 
 
