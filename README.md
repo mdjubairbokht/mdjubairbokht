@@ -10,7 +10,7 @@ Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
 
 Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](https://x.com/BokhtMd). 
 
-### Language, Tools and Frameworks:  
+### Tech Stack: 
 Languages<br> <img src="https://skillicons.dev/icons?i=java,py,js,ts,powershell,bash&theme=dark" alt="Languages">
 
 Test Automation<br> <img src="https://skillicons.dev/icons?i=selenium,cypress,postman&theme=dark" alt="Test automation"><br> <img src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"> <img src="https://img.shields.io/badge/TestNG-161b22?style=for-the-badge" alt="TestNG"> <img src="https://img.shields.io/badge/REST_Assured-161b22?style=for-the-badge" alt="REST Assured"> <img src="https://img.shields.io/badge/Swagger-161b22?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger">
