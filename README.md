@@ -27,7 +27,16 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](h
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjubairbokht&theme=holi&utcOffset=0)
 
 ### Certifications    
-<p> <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-104"> <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-900"> <img src="https://img.shields.io/badge/Microsoft-Security_Agent-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Microsoft Security"> <img src="https://img.shields.io/badge/ISTQB-Certified_Tester_(CTFL)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="ISTQB CTFL"> <img src="https://img.shields.io/badge/Scrum-Master_Accredited-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Scrum Master"> <img src="https://img.shields.io/badge/Postman-API_Expert-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Postman API Expert"> </p> <!-- Tip: wrap each badge in a link to its Credly / Microsoft Learn verification page -->
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert_(AZ--400)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-400">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-104">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-900">
+  <img src="https://img.shields.io/badge/Microsoft-Security_Agent-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Microsoft Security">
+  <img src="https://img.shields.io/badge/ISTQB-Certified_Tester_(CTFL)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="ISTQB CTFL">
+  <img src="https://img.shields.io/badge/Scrum-Master_Accredited-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Scrum Master">
+  <img src="https://img.shields.io/badge/Postman-API_Expert-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Postman API Expert">
+</p>
+<!-- Tip: wrap each badge in a link to its Credly / Microsoft Learn verification page -->
 
 
 ### 🔝 Top Contributed Repo 
