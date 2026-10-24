@@ -12,8 +12,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](h
 
 ### Tech Stack: 
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,powershell,bash&theme=dark" alt="Languages">
+
 <img src="https://skillicons.dev/icons?i=selenium,cypress,postman&theme=dark" alt="Test automation"><br> <img src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"> <img src="https://img.shields.io/badge/TestNG-161b22?style=for-the-badge" alt="TestNG"> <img src="https://img.shields.io/badge/REST_Assured-161b22?style=for-the-badge" alt="REST Assured"> <img src="https://img.shields.io/badge/Swagger-161b22?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger">
+
 <img src="https://skillicons.dev/icons?i=azure,githubactions,jenkins,docker,git,github,gitlab&theme=dark" alt="CI/CD and DevOps"><br> <img src="https://img.shields.io/badge/Azure_DevOps-161b22?style=for-the-badge" alt="Azure DevOps"> <img src="https://img.shields.io/badge/Octopus_Deploy-161b22?style=for-the-badge&logo=octopusdeploy&logoColor=2F93E0" alt="Octopus Deploy">
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,mongodb,firebase&theme=dark" alt="Cloud and data"><br> <img src="https://img.shields.io/badge/SQL_Server-161b22?style=for-the-badge" alt="SQL Server"> <img src="https://img.shields.io/badge/Power_BI-161b22?style=for-the-badge" alt="Power BI"> <img src="https://img.shields.io/badge/Datadog-161b22?style=for-the-badge&logo=datadog&logoColor=A88CFF" alt="Datadog"> <img src="https://img.shields.io/badge/Splunk-161b22?style=for-the-badge&logo=splunk&logoColor=65A637" alt="Splunk"> <img src="https://img.shields.io/badge/Jira-161b22?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Jira">
 
 ### GitHub Stats:   
