@@ -10,7 +10,7 @@ Outside of tech, I enjoy sailing, skiing, skydiving, and archery 🎯
 
 Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](https://x.com/BokhtMd). 
 
-### Tech Stack: 
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,powershell,bash,selenium,cypress,postman,azure,githubactions,jenkins,docker,git,github,gitlab,aws,gcp,mysql,mongodb,firebase&perline=11&theme=dark" alt="Tech stack" width="75%">
@@ -30,14 +30,14 @@ Find me on [LinkedIn](https://www.linkedin.com/in/jubairbokht/) and  [Twitter](h
   <img src="https://img.shields.io/badge/Jira-161b22?style=flat-square&logo=jira&logoColor=2684FF" alt="Jira">
 </p>
 
-### GitHub Stats:   
+### GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjubairbokht&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjubairbokht&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjubairbokht&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjubairbokht&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjubairbokht&theme=holi&utcOffset=0)
 
-### Certifications    
+### Certifications
 <p>
   <img src="https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert_(AZ--400)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-400">
   <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate_(AZ--104)-1f6feb?style=for-the-badge&labelColor=0d1117" alt="AZ-104">
